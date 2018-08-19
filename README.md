@@ -1,7 +1,7 @@
 # ProjectPopeyes
 Repository for Team Popeye's hackFSU Project
 
- to da goal:
+ to the goal:
 STAGE 1 = Android Applications
   Understand how to make layouts
   Understand mixing front-end and back end
